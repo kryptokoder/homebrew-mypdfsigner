@@ -2,7 +2,7 @@ class Mypdfsigner < Formula
   desc "A tool to sign PDFs with certificates"
   homepage "https://wwww.kryptokoder.com"
   url "https://www.kryptokoder.com/mypdfsigner-3.1.1.tar.gz"
-  sha256 "63c1009140a005acbf921117b3823f5e822f6ba38b8d41c06ff0b32a2ec6ac71"
+  sha256 "7b3ab9b0ff277a6440bef961c2801bbf72f3b766d279c233aee127ac7972cab4"
   license "Closed source"
 
   depends_on "libpng" 
